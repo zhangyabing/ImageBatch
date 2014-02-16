@@ -53,3 +53,9 @@ void MainWindow::on_btnResize_clicked()
 
 
 }
+
+
+
+
+
+

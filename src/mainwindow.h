@@ -24,7 +24,7 @@ private slots:
 private:
     Ui::MainWindow *ui;
     QStandardItemModel *standardItemModel;//声明model
-
+    QString* command;
 };
 
 #endif // MAINWINDOW_H
