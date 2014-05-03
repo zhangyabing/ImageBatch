@@ -43,7 +43,7 @@
        </widget>
       </item>
       <item>
-       <widget class="QListView" name="fileList"/>
+       <widget class="QListWidget" name="fileList"/>
       </item>
       <item>
        <layout class="QHBoxLayout" name="horizontalLayout">

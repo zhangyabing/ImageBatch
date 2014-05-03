@@ -21,7 +21,7 @@ private slots:
 
     void on_groupBoxPercentage_toggled(bool arg1);
 
-private:
+public:
     Ui::DialogResize *ui;
 };
 

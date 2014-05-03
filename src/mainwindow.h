@@ -21,6 +21,8 @@ private slots:
 
     void on_btnResize_clicked();
 
+    void execute(const QString &command, const QString &parame);
+
 private:
     Ui::MainWindow *ui;
     QStandardItemModel *standardItemModel;//声明model
